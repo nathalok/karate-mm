@@ -1,0 +1,6 @@
+21:14:47.856 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+21:14:48.692 [pool-1-thread-1] INFO  com.intuit.karate - karate.env system property was: null 
+21:14:48.754 [pool-1-thread-1] INFO  com.intuit.karate - [print] From Test.feature - KarateSample ..........>>>>>>>> 
+21:14:48.770 [pool-1-thread-1] INFO  com.intuit.karate - [print] call users from API 
+21:14:48.770 [pool-1-thread-1] INFO  com.intuit.karate - [print] PASSED 
+21:14:49.286 [pool-2-thread-1] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) classpath:apiservice/taskAPI.feature
